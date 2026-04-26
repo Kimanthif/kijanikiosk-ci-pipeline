@@ -1,0 +1,1 @@
+console.log("KijaniKiosk CI Pipeline demo app");
